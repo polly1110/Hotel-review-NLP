@@ -7,3 +7,7 @@ In this project, I used on social media posts and customer reviews in order to a
 ## NoteBooks
 - 1. NLP With Hotel Review Part 1 EDA and NLP process
 - 2. NLP With Hotel Review Part 2 Modeling
+
+## Insights
+![positive_word](img/positive_words.PNG)
+![negetive_word](img/negitive_words.PNG)
