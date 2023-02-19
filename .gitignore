@@ -1,2 +1,3 @@
 # ignore all the file in data, too large to upload in github
-data/
+data/Hotel_Reviews.csv
+.gitignore
